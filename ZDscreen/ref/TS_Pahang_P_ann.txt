@@ -1,0 +1,39 @@
+# Pahang River basin at Lubok Paku, Malaysia
+# Basin-averaged annual precipitation (mm)
+# Basin area: 25600 km^2
+# Source: Wong et al. (2010)
+# Note: from gridded station data collected by the
+# by Department of Irrigation and Drainage Malaysia
+# and the Malaysia Meteorology Department.
+#
+1976	1828.31
+1977	1647.13
+1978	1984.05
+1979	1915.27
+1980	2138.39
+1981	1889.40
+1982	1926.69
+1983	1812.96
+1984	2524.11
+1985	2174.76
+1986	2283.37
+1987	2344.93
+1988	2321.12
+1989	2025.40
+1990	1866.94
+1991	2109.91
+1992	1877.22
+1993	2549.51
+1994	2193.46
+1995	2391.96
+1996	2179.50
+1997	1930.30
+1998	1883.40
+1999	2211.42
+2000	2235.68
+2001	2312.59
+2002	1974.53
+2003	2141.79
+2004	1972.20
+2005	1963.55
+2006	2061.58

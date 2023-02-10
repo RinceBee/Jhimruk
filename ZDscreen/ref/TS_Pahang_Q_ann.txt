@@ -1,0 +1,31 @@
+# Pahang River at Lubok Paku, Malaysia
+# Annual mean discharge (m^3/s)
+# Basin area: 25600 km^2
+# Source: Department of Irrigation and Drainage Malaysia
+# Note: parts of the original records have been processed
+# by autoregressive infilling to handle missing data. The
+# data series should be considered as a best-estimate.
+#
+1988 770
+1989 613
+1990 536
+1991 565
+1992 561
+1993 940
+1994 860
+1995 703
+1996 701
+1997 507
+1998 438
+1999 961
+2000 814
+2001 719
+2002 495
+2003 568
+2004 532
+2005 412
+2006 677
+2007 903
+2008 770
+2009 662
+2010 607
